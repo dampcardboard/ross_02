@@ -16,7 +16,7 @@ The [old spreadsheet to plan our five week journey to the Shadow Marches is here
 
 ### Characters
 
-Alphabetically, the current players are: Angela, June, Matías, and Will. Their characters form the Perilous Adventure Society Of Morgrave University, and are, respectively:
+Alphabetically, the current players are: Angela, June, Matías, and Will. Their characters form the Perilous Adventure Society of Morgrave University, and are, respectively:
 
 * Pepper Thistlehedge, Lightfoot Halfling Bard 5 (College of Glamour)
 * Anemone d'Lyrandar, Half-elf Wizard 5 (War Magic)
@@ -27,3 +27,9 @@ Two other players, Rich and Ronnie, have left us. Their characters were, respect
 
 * Arend Thul, Half-elf Sculptor 4 (Shape of the Axe)
 * Milo Hawkins, Lightfoot Halfling Rogue 4 (Swashbuckler)
+
+### Houserules
+
+**Gritty Realism.** This variant uses a short rest of 8 hours and a long rest of 7 days. (DMG, p. 267.)
+
+**Dragonshards and Resource Regeneration.** You can use 1 pound of Red Dragonshards to regain a 1st-level spell slot or a feature/trait that takes a short rest to recover, 2 pounds for a 2nd-level spell slot, 3 pounds for a 3rd-level spell slot or a feature/trait that takes a long rest to recover, and so on with higher-level spell slots. You can do this with the Use an Item action, provided you have the requisite amount of Eberron/Red Dragonshards. If you "consume" more pounds of these dragonshards per day than your proficiency bonus, you'll suffer magic poisoning, which has varying effects that grow more severe the further past your limit that you push. (Ross, d. 2020-02-12.)
