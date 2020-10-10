@@ -1,6 +1,8 @@
 ---
 published: true
 ---
+![Sharn Top-down.png]({{site.baseurl}}/wiki/Sharn Top-down.png)
+
 ## Session Titles
 
 Ross comes up with these! 🌟
