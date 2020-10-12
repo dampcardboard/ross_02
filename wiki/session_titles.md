@@ -5,9 +5,9 @@ published: true
 
 ## Session Titles
 
-Ross comes up with these! 🌟
+Ross comes up with the titles and we come up with the arc names! 🌟
 
-Ordered by session number:
+### Arc One
 
 1. The End of Perfection
 2. Shards of Adventure
@@ -28,4 +28,8 @@ Ordered by session number:
 17. Not So Glum Town
 18. Lantern's Edge
 19. The Beacon Tower
-20. (Tune in on Sunday for the next adventure!)
+20. The Advent of Imperfection (in which we finish exploring the tower, accidentally unleash the BBEG, and see a party member develop the Mark of Death)
+
+### Arc Two
+
+21. (Next week!)
