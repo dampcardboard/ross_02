@@ -12,4 +12,4 @@ The info we acquired from the Beacon Tower about the location of other towers of
 
 ### Map
 
-![]({{site.baseurl}}/wiki/Khorvaire%20Map%20with%20Tower%20Locations.png)![Khorvaire Map with Tower Locations.png]({{site.baseurl}}/wiki/Khorvaire Map with Tower Locations.png)
+![Khorvaire Map with Tower Locations.png]({{site.baseurl}}/wiki/Khorvaire Map with Tower Locations.png)
