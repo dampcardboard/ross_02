@@ -32,4 +32,4 @@ Ross comes up with the titles and we come up with the arc names! 🌟
 
 ### Arc Two
 
-21. (Next week!)
+21. The Gorgon Slain (in which we escape from the crumbling tower, speak of the dangers of the Mark of Death, find out that the BBEG killed Saron, seize the Cannith ship, and almost kill Degaan; and in which Valon acquires a mission to bring Leonus to the Sisters of Sora Kell)
