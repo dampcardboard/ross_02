@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-![Sharn Top-down.png]({{site.baseurl}}/wiki/Sharn Top-down.png)
-
 ## Session Titles
+
+![Sharn Top-down.png]({{site.baseurl}}/wiki/Sharn Top-down.png)
 
 Ross comes up with the titles and we come up with the arc names! 🌟
 
