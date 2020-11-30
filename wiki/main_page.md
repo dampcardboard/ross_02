@@ -22,9 +22,9 @@ The [old spreadsheet to plan our five week journey to the Shadow Marches is here
 
 Alphabetically, the current players are: Angela, June, Matías, and Will. Their characters form the Perilous Adventure Society of Morgrave University, and are, respectively:
 
-* Pepper Thistlehedge, Lightfoot Halfling Bard 5 | Accursed 1 (College of Glamour | Mystery Curse)
+* Pepper Thistlehedge, Lightfoot Halfling Bard 5 / Accursed 1 (College of Glamour / Mystery Curse)
 * Anemone d'Lyrandar, Half-elf Wizard 6 (War Magic)
-* Leonus Zecrum, Stout Halfling Accursed 5 | Cleric 1 (Curse of the Plague | Grave Domain)
+* Leonus Zecrum, Stout Halfling Accursed 5 / Cleric 1 (Curse of the Plague / Grave Domain)
 * Valon Woodsrow, Wood Elf Druid 6 (Circle of the Bond)
 
 Two other players, Rich and Ronnie, have left us. Their characters were, respectively:
