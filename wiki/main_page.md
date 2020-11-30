@@ -12,6 +12,8 @@ Hi there! If you're here, you're part of Ross's Eberron game. Alternatively, you
 
 Here's the [notepad of info](https://tinyurl.com/y3wsxjxm) for the game so far. Here's the [session zero document](https://tinyurl.com/sunday-ashes).
 
+Here's the [loot we picked off of Saron d'Cannith's lifeless, magicless body](https://tinyurl.com/y2dog2cj).
+
 Here's [Degaan Torn's character sheet](https://drive.google.com/file/d/1r06QlHHSuBoXNak64GXcZtpkFyH3kIKz/view), who's accompanying us right now.
 
 The [old spreadsheet to plan our five week journey to the Shadow Marches is here](https://tinyurl.com/lanterntower), just in case it becomes useful in the future.
