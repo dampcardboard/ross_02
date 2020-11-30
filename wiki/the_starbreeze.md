@@ -19,3 +19,9 @@ Beautiful panel pic by Angela:
 - D1 — alters speed of the ship;
 - D2 — alters auto-turret sensitivity;
 - D3 — alters the direction of the ship.
+
+### Other Properties
+
+- The panel is a magic item, and requires attunement.
+- Once attuned, the attuned can steer the ship mentally.
+- The attuned can also exclude people they want from being targetted by the turrets. The turrets activate on Initiative 20 in combat, and are functionally a lair action.
