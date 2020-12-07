@@ -34,3 +34,4 @@ Ross comes up with the titles and we come up with the arc names! 🌟
 
 21. The Gorgon Slain (in which we escape from the crumbling tower, speak of the dangers of the Mark of Death, find out that the BBEG killed Saron, seize the Cannith ship, and almost kill Degaan; and in which Valon acquires a mission to bring Leonus to the Sisters of Sora Kell)
 22. Captain Leonus and the Starbreeze Crew (in which we figure out how to control the Cannith ship, bring the corpses aboard, figure out what Saron's magic items do, and arrive at Glum Town)
+23. Duty Calls (in which we take in the bloodbath that is Glumtown, persuade the lampmaker to leave with us, and arrive back in Zarash'ak; and in which we watch as House Tharashk fight amongst each other as Degaan and Valon save Anemone, and as the unmarked civilians flee as the House sacrifices itself to the BBEG)
