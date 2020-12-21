@@ -2,9 +2,9 @@
 redirect_from: /
 published: true
 ---
-![Mark of Scribing.png]({{site.baseurl}}/wiki/Mark of Scribing.png)
-
 ## Eberron: Ashes of the Last War
+
+![Mark of Scribing.png]({{site.baseurl}}/wiki/Mark of Scribing.png)
 
 Hi there! If you're here, you're part of Ross's Eberron game. Alternatively, you've somehow stumbled upon the wrong website. Either way, welcome! Sentient robots, soaring airships, and a continent torn apart by a hundred years of terrible warfare await you. Also, strange goblinoid ruins and miscolored dragonshards!
 
