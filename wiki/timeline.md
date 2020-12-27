@@ -1,4 +1,4 @@
-## Timeline
+## Timeline So Far
 
 Excerpts from Anemone's journals, pieced together to form a rough timeline of the campaign. Here's [how Eberron's calendar corresponds to Earth's](https://sagas-of-eberron.obsidianportal.com/wikis/eberron-calendar).
 
@@ -6,10 +6,10 @@ In-game time elapsed: approx. 3 months!
 
 ### 994 YK
 
-- *20 Olarune.* Cyre is destroyed, down to its exact borders. Was it an epic spell? A weapon of true mass destruction? Did another nation or university beat us to _it?_
+- **20 Olarune.** Cyre is destroyed, down to its exact borders. Was it an epic spell? A weapon of true mass destruction? Did another nation or university beat us to _it?_
 
 ### 996 YK
-- *11 Aryth.* Treaty of Thronehold is signed. The nations are recognized, House Cannith is ordered to destroy all creation forges, and the Warforged are finally recognized as sentient beings. They are fellow children of Khorvaire. Aside from us, they are the only other true children of Khorvaire. It is right and just that they take their place in society as peoples and not war machines.
+- **11 Aryth.** Treaty of Thronehold is signed. The nations are recognized, House Cannith is ordered to destroy all creation forges, and the Warforged are finally recognized as sentient beings. They are fellow children of Khorvaire. Aside from us, they are the only other true children of Khorvaire. It is right and just that they take their place in society as peoples and not war machines.
 
 - *Mid Vult.* Hired as a research assistant with some other strangers. They are a strange bunch. I doubt they know their arcane law.
 - *Late Vult.* The boat is awfully small, as are my accomodations. I agreed to work, but there hasn't been much for me to do. Perhaps things will stay uneventful till we reach the Lantern Tower.
