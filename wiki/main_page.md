@@ -16,7 +16,7 @@ Here's the [loot we picked off of Saron d'Cannith's lifeless, magicless body](ht
 
 Here's the [session zero document](https://tinyurl.com/sunday-ashes).
 
-The [old spreadsheet to plan our five week journey to the Shadow Marches is here](https://tinyurl.com/lanterntower), just in case it becomes useful in the future. Here's [Degaan Torn's character sheet](https://drive.google.com/file/d/1r06QlHHSuBoXNak64GXcZtpkFyH3kIKz/view), who was accompanying us, but is now probably dead.
+Behold: [Mrs. Fortune's Magic Emporium](https://tinyurl.com/yazvq8l6)! The [old spreadsheet to plan our five week journey to the Shadow Marches is here](https://tinyurl.com/lanterntower), just in case it becomes useful in the future. Here's [Degaan Torn's character sheet](https://drive.google.com/file/d/1r06QlHHSuBoXNak64GXcZtpkFyH3kIKz/view), who was accompanying us, but is now probably dead.
 
 ### Characters
 
