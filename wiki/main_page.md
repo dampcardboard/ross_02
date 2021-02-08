@@ -46,4 +46,4 @@ Two other players, Rich and Ronnie, have left us. Their characters were, respect
 
 **Per-day Abilities.** All class and race features that say "once per day" or something similar come back only on long rests or when recovered using red dragonshards. However, Dragonmark and magic item abilities work as written, usually regaining their magics each day at dawn. (Ross, d. 2020-12-16.)
 
-**Hit Dice Recovery.** After a short rest, characters recover all their hit dice, instead of half. (Ross, d. 2021-01-03.)
+**Hit Dice Recovery.** After a long rest, characters recover all their hit dice, instead of half. (Ross, d. 2021-01-03.)
