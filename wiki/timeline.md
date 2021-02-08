@@ -2,7 +2,7 @@
 
 Excerpts from Anemone's journals, pieced together to form a rough timeline of the campaign. Here's [how Eberron's calendar corresponds to Earth's](https://sagas-of-eberron.obsidianportal.com/wikis/eberron-calendar).
 
-In-game time elapsed: approx. 3 and a half months!
+In-game time elapsed: almost four months!
 
 ### 994 YK
 
@@ -23,5 +23,6 @@ In-game time elapsed: approx. 3 and a half months!
 - **Mid Olarune.** A week in this dreadful place! Glumtown is almost a fitting name. It is Glum. But it is barely a village.
 
 - **Early Therendor.** Back to Zarash'ak and then back to Vralkak. We've just made port. Almost two weeks, and still I think of those bodies. They were all like Saron. Bloodless, markless. What can this monster _do?_
+- **Mid Therendor.** After a week of ship travel and a day of foot travel, I sleep tonight not under the stars, but under Valon's rear end. That man needs to learn what a shower is.
 
 - **Mid Dravago.** The end of the three month period that Valon can bring Leonus to the Sisters of Sora Kell.
