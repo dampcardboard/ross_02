@@ -24,5 +24,6 @@ In-game time elapsed: almost four months!
 
 - **Early Therendor.** Back to Zarash'ak and then back to Vralkak. We've just made port. Almost two weeks, and still I think of those bodies. They were all like Saron. Bloodless, markless. What can this monster _do?_
 - **Mid Therendor.** After a week of ship travel and a day of foot travel, I sleep tonight not under the stars, but under Valon's rear end. That man needs to learn what a shower is.
+- **Late Therendor.** Strange red lightning and grey stone... And now, the gnollish village of Znir. Strange visions.
 
 - **Mid Dravago.** The end of the three month period that Valon can bring Leonus to the Sisters of Sora Kell.
