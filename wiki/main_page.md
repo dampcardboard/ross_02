@@ -26,7 +26,7 @@ Here's [Degaan Torn's character sheet](https://drive.google.com/file/d/1r06QlHHS
 
 ### Characters
 
-Alphabetically, the current players are: Angela, Jason, June, Matías, and Will. Their characters form the Perilous Adventure Society of Morgrave University, and are, respectively:
+Alphabetically, the current players are: Angela, June, Matías, and Will. Their characters form the Perilous Adventure Society of Morgrave University, and are, respectively:
 
 * Pepper Thistlehedge, Lightfoot Halfling Bard 5 / Accursed 1 (College of Glamour / Mystery Curse)
 * Anemone d'Lyrandar, Half-elf Wizard 6 (War Magic)
