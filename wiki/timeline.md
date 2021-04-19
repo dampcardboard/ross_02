@@ -26,4 +26,6 @@ In-game time elapsed: almost four months!
 - **Mid Therendor.** After a week of ship travel and a day of foot travel, I sleep tonight not under the stars, but under Valon's rear end. That man needs to learn what a shower is.
 - **Late Therendor.** Strange red lightning and grey stone... And now, the gnollish village of Znir. Strange visions.
 
+- **Early Eyre.** Arrival at the Great Crag. By means we did not chose.
+
 - **Mid Dravago.** The end of the three month period that Valon can bring Leonus to the Sisters of Sora Kell.
