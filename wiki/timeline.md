@@ -2,7 +2,7 @@
 
 Excerpts from Anemone's journals, pieced together to form a rough timeline of the campaign. Here's [how Eberron's calendar corresponds to Earth's](https://sagas-of-eberron.obsidianportal.com/wikis/eberron-calendar).
 
-In-game time elapsed: almost four months!
+In-game time elapsed: almost five months!
 
 ### 994 YK
 
