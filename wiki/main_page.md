@@ -29,13 +29,13 @@ Here's [Degaan Torn's character sheet](https://drive.google.com/file/d/1r06QlHHS
 Alphabetically, the current players are: Angela, Jason, June, Matías, and Will. Their characters form the Perilous Adventure Society of Morgrave University, and are, respectively:
 
 * Pepper Thistlehedge, Lightfoot Halfling Bard 5 / Accursed 1 (College of Glamour / Mystery Curse)
-* Bazgul of Graywall, Orc Justiciar 6 (Division of Execution)
 * Anemone d'Lyrandar, Half-elf Wizard 6 (War Magic)
 * Leonus Zecrum, Stout Halfling Accursed 5 / Cleric 1 (Curse of the Plague / Grave Domain)
 * Valon Woodsrow, Wood Elf Ranger 6 (Beastmaster)
 
-Two other players, Rich and Ronnie, have left us. Their characters were, respectively:
+Three other players, Jason and Rich and Ronnie, have left us. Their characters were, respectively:
 
+* Bazgul of Graywall, Orc Justiciar 6 (Division of Execution)
 * Arend Thul, Half-elf Sculptor 4 (Shape of the Axe)
 * Milo Hawkins, Lightfoot Halfling Rogue 4 (Swashbuckler)
 
