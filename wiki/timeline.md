@@ -27,5 +27,6 @@ In-game time elapsed: almost five months!
 - **Late Therendor.** Strange red lightning and grey stone... And now, the gnollish village of Znir. Strange visions.
 
 - **Early Eyre.** Arrival at the Great Crag. By means we did not chose.
+- **Middle Eyre.** Tomorrow, Sora Katra and Leonus will speak. What she will ask, we know not.
 
 - **Mid Dravago.** The end of the three month period that Valon can bring Leonus to the Sisters of Sora Kell.
