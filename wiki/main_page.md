@@ -26,9 +26,10 @@ Here's [Degaan Torn's character sheet](https://drive.google.com/file/d/1r06QlHHS
 
 ### Characters
 
-Alphabetically, the current players are: Angela, June, Matías, and Will. Their characters form the Perilous Adventure Society of Morgrave University, and are, respectively:
+Alphabetically, the current players are: Angela, Eli, June, Matías, and Will. Their characters form the Perilous Adventure Society of Morgrave University, and are, respectively:
 
 * Pepper Thistlehedge, Lightfoot Halfling Bard 5 / Accursed 1 (College of Glamour / Mystery Curse)
+* Segue Montague, Human Shaman 6 (Unknown Subclass)
 * Anemone d'Lyrandar, Half-elf Wizard 6 (War Magic)
 * Leonus Zecrum, Stout Halfling Accursed 5 / Cleric 1 (Curse of the Plague / Grave Domain)
 * Valon Woodsrow, Wood Elf Ranger 6 (Beastmaster)
@@ -44,6 +45,8 @@ Three other players, Jason and Rich and Ronnie, have left us. Their characters w
 **Gritty Realism.** This variant uses a short rest of 8 hours and a long rest of 7 days. (DMG, p. 267.)
 
 **Dragonshards and Resource Regeneration.** You can use 1 pound of Red Dragonshards to regain a 1st-level spell slot or a feature/trait that takes a short rest to recover, 2 pounds for a 2nd-level spell slot, 3 pounds for a 3rd-level spell slot or a feature/trait that takes a long rest to recover, and so on with higher-level spell slots. You can do this with the Use an Item action, provided you have the requisite amount of Eberron/Red Dragonshards. If you "consume" more pounds of these dragonshards per day than your proficiency bonus, you'll suffer magic poisoning, which has varying effects that grow more severe the further past your limit that you push. (Ross, d. 2020-02-12.)
+
+**Dragonshard Substitution.** In their raw form, Eberron dragonshards are rosy crystals with crimson swirls flowing in their depths and are typically refined into a glowing powder. This dragonshard dust can be used to fuel almost any act of magic. When casting a spell, you can use Eberron dragonshard dust in place of any spell component that has a cost, unless the DM says otherwise (the dust's market value is the same as the replaced component). (ERLW 275; Ross d. 2021-01-05.)
 
 **Per-day Abilities.** All class and race features that say "once per day" or something similar come back only on long rests or when recovered using red dragonshards. However, Dragonmark and magic item abilities work as written, usually regaining their magics each day at dawn. (Ross, d. 2020-12-16.)
 
