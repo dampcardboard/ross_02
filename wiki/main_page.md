@@ -2,6 +2,8 @@
 redirect_from: /
 published: true
 ---
+**As of 2021/05/29, Saturday, this wiki is outdated. Go to the new website!**
+
 ## Eberron: Ashes of the Last War
 
 ![Mark of Scribing.png]({{site.baseurl}}/wiki/Mark of Scribing.png)
